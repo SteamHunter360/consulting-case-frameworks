@@ -76,7 +76,7 @@ ConsultingCaseFrameworks/
 - Add industry-specific cases (energy, aerospace, finance).
 - Interactive case prep tools (Python-based).
 
-📌 Future Improvements
+## 📌 Further Improvements
  1. Add more frameworks
  - Digital transformation, sustainability, pricing strategy.
  - Industry-specific frameworks (healthcare, finance, tech).
